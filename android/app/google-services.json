@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "517101857016",
+    "project_id": "coin-bit-9b050",
+    "storage_bucket": "coin-bit-9b050.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517101857016:android:c8b9cb0c05dd661a25730d",
+        "android_client_info": {
+          "package_name": "com.arcreator.hivecoin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517101857016-b3bbumt9casr76o9u3td1hq2ube3eflo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg0LGux88Skj91N3ZNacmLALqV-2dSU3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517101857016-b3bbumt9casr76o9u3td1hq2ube3eflo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
